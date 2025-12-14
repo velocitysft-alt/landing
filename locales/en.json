@@ -1,0 +1,217 @@
+{
+  "common": {
+    "getStarted": "Get Started",
+    "login": "Log in",
+    "docs": "Services",
+    "features": "Services",
+    "pricing": "Pricing",
+    "customers": "Portfolio"
+  },
+  "hero": {
+    "badge": "Custom Software Development",
+    "title": "We build software that",
+    "titleAccent": "drives your business forward.",
+    "description": "Transform your ideas into powerful digital solutions. We specialize in custom software development, web applications, and digital transformation services tailored to your needs.",
+    "ctaPrimary": "Start Your Project",
+    "ctaSecondary": "View Our Services",
+    "trustedBy": "Trusted by startups and enterprises worldwide"
+  },
+  "socialProof": {
+    "netflix": {
+      "stat": "50+",
+      "description": "projects delivered.",
+      "company": "SUCCESS STORIES"
+    },
+    "tripadvisor": {
+      "stat": "15+",
+      "description": "technologies mastered.",
+      "company": "TECH STACK"
+    },
+    "box": {
+      "stat": "100%",
+      "description": "client satisfaction.",
+      "company": "SATISFACTION"
+    },
+    "ebay": {
+      "stat": "24/7",
+      "description": "support available.",
+      "company": "SUPPORT"
+    }
+  },
+  "features": {
+    "collaboration": {
+      "badge": "Our Approach",
+      "title": "Agile development. Delivered on time.",
+      "description": "We follow agile methodologies to ensure rapid delivery and continuous improvement. Our team works closely with you to understand your vision and bring it to life with cutting-edge technology.",
+      "items": {
+        "collaboration": {
+          "title": "Agile Methodology",
+          "description": "Iterative development with regular feedback and adjustments"
+        },
+        "deployments": {
+          "title": "Rapid Deployment",
+          "description": "Fast delivery cycles without compromising quality"
+        },
+        "analytics": {
+          "title": "Continuous Support",
+          "description": "Ongoing maintenance and updates to keep your software running smoothly"
+        }
+      }
+    },
+    "grid": {
+      "title": "Comprehensive Software Solutions",
+      "description": "From concept to deployment, we cover every aspect of software development",
+      "items": {
+        "ai": {
+          "title": "Custom Development",
+          "description": "Tailored software solutions built specifically for your business needs and requirements"
+        },
+        "fast": {
+          "title": "Modern Tech Stack",
+          "description": "Latest technologies and frameworks for scalable, high-performance applications"
+        },
+        "security": {
+          "title": "Security First",
+          "description": "Enterprise-grade security practices and compliance standards built into every project"
+        },
+        "global": {
+          "title": "Cloud Solutions",
+          "description": "Scalable cloud infrastructure and deployment strategies for global reach"
+        },
+        "analytics": {
+          "title": "Full-Stack Development",
+          "description": "End-to-end development from frontend to backend, databases, and APIs"
+        },
+        "team": {
+          "title": "Dedicated Teams",
+          "description": "Experienced developers assigned to your project with transparent communication"
+        }
+      }
+    },
+    "analytics": {
+      "badge": "Development",
+      "title": "From idea to production in record time",
+      "description": "Our streamlined development process ensures your project moves from concept to market quickly. We handle everything from initial planning to final deployment and beyond.",
+      "cta": "See Our Process"
+    },
+    "security": {
+      "badge": "Quality",
+      "title": "Code quality you can trust",
+      "description": "We write clean, maintainable code following industry best practices. Every project includes comprehensive testing, code reviews, and documentation to ensure long-term success.",
+      "cta": "Learn More"
+    },
+    "scale": {
+      "badge": "Scalability",
+      "title": "Built to grow with your business",
+      "description": "We design and develop software that scales. Whether you're a startup or enterprise, our solutions grow with you, handling increased load and complexity seamlessly.",
+      "cta": "View Case Studies"
+    }
+  },
+  "pricing": {
+    "title": "Flexible pricing for every project",
+    "description": "Choose the engagement model that works best for your needs",
+    "plans": {
+      "starter": {
+        "title": "Project-Based",
+        "description": "Perfect for well-defined projects",
+        "price": "Custom",
+        "period": "",
+        "features": {
+          "projects": "Fixed scope and timeline",
+          "bandwidth": "Dedicated team",
+          "support": "3 months support included",
+          "analytics": "Full documentation"
+        },
+        "cta": "Get Quote"
+      },
+      "pro": {
+        "badge": "Most Popular",
+        "title": "Dedicated Team",
+        "description": "For ongoing development needs",
+        "price": "From $2k",
+        "period": "/month",
+        "features": {
+          "projects": "Flexible scope",
+          "bandwidth": "Full-time developers",
+          "support": "Priority support",
+          "analytics": "Agile sprints",
+          "ai": "Technical consultation",
+          "collaboration": "Project management"
+        },
+        "cta": "Start Now"
+      },
+      "enterprise": {
+        "title": "Enterprise",
+        "description": "For large-scale initiatives",
+        "price": "Custom",
+        "features": {
+          "everything": "Everything in Dedicated Team",
+          "bandwidth": "Multiple teams",
+          "support": "24/7 dedicated support",
+          "integrations": "Custom integrations",
+          "sla": "SLA guarantee",
+          "security": "Advanced security audit"
+        },
+        "cta": "Contact Sales"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Loved by thousands worldwide",
+    "description": "See what our customers have to say",
+    "items": {
+      "sarah": {
+        "quote": "Velocity has completely transformed how our team ships features. The automated deployments alone save us hours every week.",
+        "author": "Sarah Johnson",
+        "role": "Engineering Lead, Stripe"
+      },
+      "michael": {
+        "quote": "The performance improvements we saw after migrating to Velocity were incredible. Our pages load 10x faster now.",
+        "author": "Michael Chen",
+        "role": "CTO, Shopify"
+      },
+      "emily": {
+        "quote": "Best developer experience I've ever had. The platform just works, and the team collaboration features are second to none.",
+        "author": "Emily Rodriguez",
+        "role": "Senior Developer, Airbnb"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to build something amazing?",
+    "description": "Let's discuss your project and turn your vision into reality. Get in touch and we'll respond within 24 hours.",
+    "primary": "Start Your Project",
+    "secondary": "Schedule a Call",
+    "disclaimer": "Free consultation • No commitment • Quick response"
+  },
+  "footer": {
+    "description": "Custom software development services. We transform ideas into powerful digital solutions that drive business growth.",
+    "certifications": "ISO Certified • GDPR Compliant",
+    "copyright": "© 2025 Velocity. All rights reserved.",
+    "links": {
+      "product": {
+        "title": "Services",
+        "features": "Web Development",
+        "pricing": "Mobile Apps",
+        "documentation": "Cloud Solutions",
+        "api": "API Development",
+        "changelog": "Maintenance"
+      },
+      "company": {
+        "title": "Company",
+        "about": "About Us",
+        "blog": "Blog",
+        "careers": "Careers",
+        "press": "Press Kit",
+        "contact": "Contact"
+      },
+      "legal": {
+        "title": "Legal",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "cookies": "Cookie Policy",
+        "acceptable": "Acceptable Use"
+      }
+    }
+  }
+}

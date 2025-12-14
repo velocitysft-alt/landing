@@ -1,0 +1,217 @@
+{
+  "common": {
+    "getStarted": "Comenzar",
+    "login": "Iniciar sesión",
+    "docs": "Servicios",
+    "features": "Servicios",
+    "pricing": "Precios",
+    "customers": "Portfolio"
+  },
+  "hero": {
+    "badge": "Desarrollo de Software a Medida",
+    "title": "Construimos software que",
+    "titleAccent": "impulsa tu negocio.",
+    "description": "Transforma tus ideas en soluciones digitales poderosas. Nos especializamos en desarrollo de software personalizado, aplicaciones web y servicios de transformación digital adaptados a tus necesidades.",
+    "ctaPrimary": "Iniciar tu Proyecto",
+    "ctaSecondary": "Ver Nuestros Servicios",
+    "trustedBy": "Confiado por startups y empresas en todo el mundo"
+  },
+  "socialProof": {
+    "netflix": {
+      "stat": "50+",
+      "description": "proyectos entregados.",
+      "company": "CASOS DE ÉXITO"
+    },
+    "tripadvisor": {
+      "stat": "15+",
+      "description": "tecnologías dominadas.",
+      "company": "TECNOLOGÍAS"
+    },
+    "box": {
+      "stat": "100%",
+      "description": "satisfacción del cliente.",
+      "company": "SATISFACCIÓN"
+    },
+    "ebay": {
+      "stat": "24/7",
+      "description": "soporte disponible.",
+      "company": "SOPORTE"
+    }
+  },
+  "features": {
+    "collaboration": {
+      "badge": "Nuestro Enfoque",
+      "title": "Desarrollo ágil. Entregado a tiempo.",
+      "description": "Seguimos metodologías ágiles para garantizar entregas rápidas y mejora continua. Nuestro equipo trabaja estrechamente contigo para entender tu visión y hacerla realidad con tecnología de vanguardia.",
+      "items": {
+        "collaboration": {
+          "title": "Metodología Ágil",
+          "description": "Desarrollo iterativo con retroalimentación regular y ajustes"
+        },
+        "deployments": {
+          "title": "Despliegue Rápido",
+          "description": "Ciclos de entrega rápidos sin comprometer la calidad"
+        },
+        "analytics": {
+          "title": "Soporte Continuo",
+          "description": "Mantenimiento y actualizaciones continuas para mantener tu software funcionando sin problemas"
+        }
+      }
+    },
+    "grid": {
+      "title": "Soluciones de Software Integrales",
+      "description": "Desde el concepto hasta el despliegue, cubrimos todos los aspectos del desarrollo de software",
+      "items": {
+        "ai": {
+          "title": "Desarrollo Personalizado",
+          "description": "Soluciones de software a medida construidas específicamente para las necesidades de tu negocio"
+        },
+        "fast": {
+          "title": "Stack Tecnológico Moderno",
+          "description": "Últimas tecnologías y frameworks para aplicaciones escalables y de alto rendimiento"
+        },
+        "security": {
+          "title": "Seguridad Primero",
+          "description": "Prácticas de seguridad de nivel empresarial y estándares de cumplimiento integrados en cada proyecto"
+        },
+        "global": {
+          "title": "Soluciones en la Nube",
+          "description": "Infraestructura en la nube escalable y estrategias de despliegue para alcance global"
+        },
+        "analytics": {
+          "title": "Desarrollo Full-Stack",
+          "description": "Desarrollo de extremo a extremo desde frontend hasta backend, bases de datos y APIs"
+        },
+        "team": {
+          "title": "Equipos Dedicados",
+          "description": "Desarrolladores experimentados asignados a tu proyecto con comunicación transparente"
+        }
+      }
+    },
+    "analytics": {
+      "badge": "Desarrollo",
+      "title": "De la idea a producción en tiempo récord",
+      "description": "Nuestro proceso de desarrollo optimizado asegura que tu proyecto pase del concepto al mercado rápidamente. Nos encargamos de todo, desde la planificación inicial hasta el despliegue final y más allá.",
+      "cta": "Ver Nuestro Proceso"
+    },
+    "security": {
+      "badge": "Calidad",
+      "title": "Calidad de código en la que puedes confiar",
+      "description": "Escribimos código limpio y mantenible siguiendo las mejores prácticas de la industria. Cada proyecto incluye pruebas exhaustivas, revisiones de código y documentación para garantizar el éxito a largo plazo.",
+      "cta": "Saber Más"
+    },
+    "scale": {
+      "badge": "Escalabilidad",
+      "title": "Construido para crecer con tu negocio",
+      "description": "Diseñamos y desarrollamos software que escala. Ya seas una startup o una empresa, nuestras soluciones crecen contigo, manejando carga y complejidad aumentadas sin problemas.",
+      "cta": "Ver Casos de Estudio"
+    }
+  },
+  "pricing": {
+    "title": "Precios flexibles para cada proyecto",
+    "description": "Elige el modelo de compromiso que mejor se adapte a tus necesidades",
+    "plans": {
+      "starter": {
+        "title": "Por Proyecto",
+        "description": "Perfecto para proyectos bien definidos",
+        "price": "Personalizado",
+        "period": "",
+        "features": {
+          "projects": "Alcance y cronograma fijos",
+          "bandwidth": "Equipo dedicado",
+          "support": "3 meses de soporte incluidos",
+          "analytics": "Documentación completa"
+        },
+        "cta": "Obtener Cotización"
+      },
+      "pro": {
+        "badge": "Más Popular",
+        "title": "Equipo Dedicado",
+        "description": "Para necesidades de desarrollo continuo",
+        "price": "Desde $2k",
+        "period": "/mes",
+        "features": {
+          "projects": "Alcance flexible",
+          "bandwidth": "Desarrolladores tiempo completo",
+          "support": "Soporte prioritario",
+          "analytics": "Sprints ágiles",
+          "ai": "Consultoría técnica",
+          "collaboration": "Gestión de proyectos"
+        },
+        "cta": "Comenzar Ahora"
+      },
+      "enterprise": {
+        "title": "Enterprise",
+        "description": "Para iniciativas a gran escala",
+        "price": "Personalizado",
+        "features": {
+          "everything": "Todo en Equipo Dedicado",
+          "bandwidth": "Múltiples equipos",
+          "support": "Soporte dedicado 24/7",
+          "integrations": "Integraciones personalizadas",
+          "sla": "Garantía SLA",
+          "security": "Auditoría de seguridad avanzada"
+        },
+        "cta": "Contactar Ventas"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Amado por miles en todo el mundo",
+    "description": "Ve lo que dicen nuestros clientes",
+    "items": {
+      "sarah": {
+        "quote": "Velocity ha transformado completamente cómo nuestro equipo envía características. Los despliegues automatizados solos nos ahorran horas cada semana.",
+        "author": "Sarah Johnson",
+        "role": "Líder de Ingeniería, Stripe"
+      },
+      "michael": {
+        "quote": "Las mejoras de rendimiento que vimos después de migrar a Velocity fueron increíbles. Nuestras páginas ahora cargan 10 veces más rápido.",
+        "author": "Michael Chen",
+        "role": "CTO, Shopify"
+      },
+      "emily": {
+        "quote": "La mejor experiencia de desarrollador que he tenido. La plataforma simplemente funciona, y las características de colaboración en equipo son insuperables.",
+        "author": "Emily Rodriguez",
+        "role": "Desarrolladora Senior, Airbnb"
+      }
+    }
+  },
+  "cta": {
+    "title": "¿Listo para construir algo increíble?",
+    "description": "Hablemos de tu proyecto y convirtamos tu visión en realidad. Contáctanos y responderemos en 24 horas.",
+    "primary": "Iniciar tu Proyecto",
+    "secondary": "Programar una Llamada",
+    "disclaimer": "Consulta gratuita • Sin compromiso • Respuesta rápida"
+  },
+  "footer": {
+    "description": "Servicios de desarrollo de software personalizado. Transformamos ideas en soluciones digitales poderosas que impulsan el crecimiento empresarial.",
+    "certifications": "Certificado ISO • Cumplimiento GDPR",
+    "copyright": "© 2025 Velocity. Todos los derechos reservados.",
+    "links": {
+      "product": {
+        "title": "Servicios",
+        "features": "Desarrollo Web",
+        "pricing": "Apps Móviles",
+        "documentation": "Soluciones Cloud",
+        "api": "Desarrollo API",
+        "changelog": "Mantenimiento"
+      },
+      "company": {
+        "title": "Empresa",
+        "about": "Acerca de Nosotros",
+        "blog": "Blog",
+        "careers": "Carreras",
+        "press": "Kit de Prensa",
+        "contact": "Contacto"
+      },
+      "legal": {
+        "title": "Legal",
+        "privacy": "Política de Privacidad",
+        "terms": "Términos de Servicio",
+        "cookies": "Política de Cookies",
+        "acceptable": "Uso Aceptable"
+      }
+    }
+  }
+}

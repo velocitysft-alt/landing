@@ -1,0 +1,33 @@
+/* 
+ * Archivo SCSS para estilos personalizados adicionales
+ * Los estilos principales están en globals.css para compatibilidad con Tailwind CSS 4
+ */
+
+// Variables SCSS personalizadas
+$breakpoint-sm: 640px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 1024px;
+$breakpoint-xl: 1280px;
+
+// Mixins útiles
+@mixin mobile {
+  @media (max-width: $breakpoint-sm - 1px) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: $breakpoint-sm) and (max-width: $breakpoint-md - 1px) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: $breakpoint-lg) {
+    @content;
+  }
+}
+
+// Estilos personalizados adicionales pueden ir aquí
+// Por ejemplo, animaciones personalizadas, efectos, etc.
+
